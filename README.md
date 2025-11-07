@@ -35,12 +35,12 @@ A MERN-stack application that allows citizens to report local civic issues (like
 
 ## ⚙️ Installation & Setup
 ```
-git clone https://github.com/Sriniketh-J7/SIH2025-PS1.git
-cd SIH2025-PS1/frontend
+git clone https://github.com/SreeHarsha2468/SnapFix.git
+cd SnapFix/frontend
 npm install
 npm run dev
 
-cd SIH2025-PS1/backend
+cd SnapFix/backend
 npm install
 npm run dev
 ```
